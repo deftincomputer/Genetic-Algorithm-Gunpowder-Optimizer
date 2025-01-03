@@ -3,4 +3,4 @@ Finding the optimal combination of gunpowder to produce more energy using a gene
 
 
 
-![Genetic Algorithm Gunpowder Optimizer] (https://github.com/deftincomputer/Genetic-Algorithm-Gunpowder-Optimizer/blob/Main/gunpowder.PNG)
+![Genetic Algorithm Gunpowder Optimizer] (gunpowder.PNG)
