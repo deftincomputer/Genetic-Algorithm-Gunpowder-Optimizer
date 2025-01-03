@@ -3,4 +3,4 @@ Finding the optimal combination of gunpowder to produce more energy using a gene
 
 
 
-![Genetic Algorithm Gunpowder Optimizer] (/gunpowder.PNG)
+![Genetic Algorithm Gunpowder Optimizer](/gunpowder.PNG)
